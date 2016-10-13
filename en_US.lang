@@ -1,6 +1,19 @@
 item.trumphair.name=Trump's Wig
+item.money.name=Money
+item.grabber.name=Wooden Claw
+item.spring.name=Spring
+item.handle.name=Wooden Handle
+
 itemGroup.trumpmodtab=Darvid's Trump Mod
-item.wheatthin.name=Wheat Thin
-item.wheatcannon1.name=Wheat Thin Launcher
+
+entity.trumpmod.trump.name=Trump
+entity.trump.name=Trump
+entity.trumpmod.EntityVillager.name=Dealer
+entity.EntityVillager.name=Dealer
+
+
 //It goes in src/main/resources/assets/<modid>/lang.
+//Make achievement:   Get Trumped (die by trump)
+//Make achievement:   Trump Gets Trumped (kill trump)
+//Make achievement:   "I'll be back!" (release the trumpinator to get trump)
 //not up to date
