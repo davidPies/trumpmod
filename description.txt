@@ -1,0 +1,31 @@
+
+
+Darvid's Trump Mod
+
+
+Features:
+= Wear Trump's wig
+= Fight Trump
+= Fight Trumpinators
+= Buy Items from Dealers
+= 
+
+[insert pictures of gameplay here]
+Wig:
+A wig crafted from hair from Trump's head
+
+Trump:
+A man who's presidency must be stopped, defeat trump for the glory and money.
+
+Dealer:
+A shady assorted items dealer who wants trump to be eliminated, he will sell you the goods for money.
+
+Trumpinator:
+A Robot whose temper toward trump cannot be matched, he will attack Trump on sight. 
+Regular bots spawn randomly and do not attack Trump, 
+while Trumpinators bought from Dealers will stay by your side and will attack enemies as well as Trump.
+
+
+[insert pictures of craftings here]
+[]
+Authors: Darvid
