@@ -15,7 +15,8 @@ Features:
 = Fight Trumpinators
 = Buy Items from Dealers
 = Buy Trumpinators from dealers
-= 
+= Buy and use laser gun
+=
 ]
 
 [insert pictures of gameplay here]
@@ -33,6 +34,9 @@ A Robot whose temper toward trump cannot be matched, he will attack Trump on sig
 Regular bots spawn randomly and do not attack Trump, 
 while Trumpinators bought from Dealers will stay by your side and will attack enemies as well as Trump.
 
+Laser Gun:
+Bought from a dealer with a stack of money.
+Fires lasers at a slow speed with a fast rate of fire.
 
 [insert pictures of craftings here]
 []
